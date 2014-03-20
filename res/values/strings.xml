@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Safe Chat</string>
+    <string name="title_activity_conversation_detail">ConversationDetailActivity</string>
+    <string name="noconversations">No conversations avaidable</string>
+    <string name="nomessages">No messages avaidable</string>
+    <string name="action_EnableSampleMode">Enable Sample Mode</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
